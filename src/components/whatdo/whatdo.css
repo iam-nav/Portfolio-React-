@@ -1,0 +1,29 @@
+.headline{
+    margin-top: 10%;
+    text-align: center;
+}
+.headline h1{
+    font-size: 40px;
+    color: #333333;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.headline h3{
+    color: #777777;
+    font-size: 16px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 75px
+}
+
+.skills ul li h3{
+    position: relative;
+    color: #777777;
+    font-size: 16px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+    font-weight: 400;
+    margin-bottom: 75px
+}

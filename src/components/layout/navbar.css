@@ -1,0 +1,79 @@
+.background{
+    margin: 0;
+    width: 100%;
+    overflow: hidden;
+    height: 630px;
+    background: url('../img/IMG_20200706_112017.jpg');
+}
+.layer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgba(73,77,95,1) 19%, rgba(132,88,179,1) 42%, rgba(208,189,244,1) 75%, rgba(229,234,245,1) 99%);    opacity: 0.9;
+}
+
+.navbar ul li{
+    font-weight: bold;
+    margin-top: 13px;
+    float: left;
+    list-style-type: none;
+    margin-left: 20px;
+    
+}
+.navbar {
+    float: right;
+    margin-right: 10%;
+}
+.Name{
+    color: #0a2a59;
+    font-size: xx-large;
+    margin-left: -210%;
+    font-family: 'Galada', cursive;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+.navbar ul li a:hover{
+    color: #3C1053FF;
+}
+.INFORMATION{
+margin-top: 15%;
+margin-left: 30%;
+}
+.fullstack{
+    font-size: 70px;
+    margin-left: 15%;
+}
+.ndoejs_and_react{
+font-size: 60px;
+font-weight: bold;
+}
+.developer{
+    font-size: 60px;
+    margin-left: 15%;
+}
+.btn{
+    cursor: pointer;
+    margin-left: 43%;
+    outline: none;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 25px;
+    border-radius: 7px;
+    background-color: #a0d2eb;
+    color: 494DSF;
+    border: none;
+    margin-top: 70px;
+}
+.btn:hover{
+    background-color:#5dbae9;
+}
+.round{
+    height: 50px;
+    width: 50px;
+    background-color: rebeccapurple;
+}
