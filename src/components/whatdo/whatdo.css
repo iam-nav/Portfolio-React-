@@ -18,6 +18,10 @@
     margin-bottom: 75px
 }
 
+.skills ul{
+margin-left: 50px;
+}
+
 .skills ul li h3{
     position: relative;
     color: #777777;
@@ -26,4 +30,61 @@
     text-transform: none;
     font-weight: 400;
     margin-bottom: 75px
+}
+.skills ul li h4{
+    letter-spacing: 2px;
+    font-size: large;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+.skills ul li h4 span{
+    margin-left: 15px;
+}
+
+.skills ul li {
+    list-style-type: none;
+    float: left;
+    margin-left: 130px;
+}
+
+.round{
+    background-color: rebeccapurple;
+    width: 130px;
+    border-radius: 50%;
+    height: 130px;
+    margin-left: 20px;
+}
+.code{
+   margin-left: 35px;
+   font-size: 50px;
+   color: white;
+   margin-top: 35px;
+}
+#web{
+    margin-left: -50px;
+    margin-top: -10px;
+}
+#idea{
+    margin-left: 60px;
+}
+
+#REST{
+    margin-left: -20px;
+    margin-top: -10px;
+}
+#development{
+    margin-left: -30px;
+}
+#ideas{
+    margin-left: 50px;
+}
+#database{
+    margin-left: -80px;
+    margin-top: 35px;
+}
+#mysql{
+    margin-left: 30px;
+}
+#scale{
+    margin-left: 150px;
 }

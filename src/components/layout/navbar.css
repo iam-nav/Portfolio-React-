@@ -72,8 +72,3 @@ font-weight: bold;
 .btn:hover{
     background-color:#5dbae9;
 }
-.round{
-    height: 50px;
-    width: 50px;
-    background-color: rebeccapurple;
-}
