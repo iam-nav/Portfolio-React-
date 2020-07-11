@@ -10,7 +10,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 630px;
     background: linear-gradient(0deg, rgba(73,77,95,1) 19%, rgba(132,88,179,1) 42%, rgba(208,189,244,1) 75%, rgba(229,234,245,1) 99%);    opacity: 0.9;
 }
 
@@ -71,4 +71,17 @@ font-weight: bold;
 }
 .btn:hover{
     background-color:#5dbae9;
+}
+@media screen and (max-height: 800px) {
+   
+.Name{
+    color: #0a2a59;
+    font-size: xx-large;
+    margin-left: -170%;
+    font-family: 'Galada', cursive;
+}
+.navbar {
+    float: right;
+    margin-right: 2%;
+}
 }

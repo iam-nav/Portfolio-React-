@@ -29,7 +29,7 @@ export default function Whatdo() {
                             <span id="ideas"> your ideas to life.</span></h3>  
                 </li>
                 <li>
-                    <div className="round"><FontAwesomeIcon className="code" icon={faDatabase} /></div>
+                    <div className="round"><FontAwesomeIcon className="database" icon={faDatabase} /></div>
                         <h4>Database Design<br/> </h4>
                         <h3 id="database">Database architectures in MongoDB and MySQL<br /><span id="mysql">  always aiming for performance scale and</span><br /><span id="scale"> stability.</span></h3>  
                 </li>

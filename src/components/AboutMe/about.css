@@ -1,0 +1,129 @@
+.about{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+}
+.about h1{
+    font-size: 40px;
+    font-family: 'Candal', sans-serif;
+}
+.about h4{
+    font-size: 16px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 75px;
+    color: #777777;
+}
+.profile{
+    border-radius: 50%;
+    width: 20%;
+}
+.profile_container{
+    text-align: center;
+}
+.Name_skills h4{
+    color: rgb(119, 119, 119);
+    font-size: 16px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+    font-weight: 400;
+    margin-top: -15px;
+}
+.Name_skills{
+    text-align: center;
+}
+.github{
+    font-size: 30px;
+}
+.social_plugins li{
+    background-color:lightgrey;
+    width: 30px;
+    padding: 1%;
+    border-radius: 60%;
+    float: left;
+    list-style-type: none;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.social_plugins li:hover{
+    background-color: rebeccapurple;
+}
+.social_plugins{
+    margin-left: 38%;
+}
+#span_one{    
+    margin-top: 30px;
+    margin-bottom: 8px;
+}
+#span{
+    margin-bottom: 8px;
+}
+#span_two{
+    margin-bottom: 30px;
+}
+.about_us_container{
+    text-align: center;
+    margin-top: 4%;
+    font-size: 19px;
+    color: rgb(119, 119, 119);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.frontend_container{
+    margin-top: 6%;
+    text-align: center;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.frontend_container{
+  margin-top: 5%;
+  color: #333333;
+}
+.skills_frontend{
+    margin-top: 5%;
+}
+#html{
+    width: 8%;
+    margin-left: -3%;
+}
+#css{
+    width: 8%;
+    margin-left: 15%;
+}
+#js{
+    width: 7%;
+    margin-left: 15%;
+}
+#bootstrap{
+    width: 8%;
+    margin-left: 15%;
+}
+
+#react{
+    width: 8%;
+    margin-left: -47%;
+    margin-top: 5%;
+}
+#redux{
+    width: 9%;
+    margin-left: 15%;
+}
+#mongo{
+    width: 8%;
+    margin-top:3%;
+    margin-left: -3%;
+}
+#mysql{
+    width: 8%;
+    margin-left: 13%;
+}
+#heroku{
+    width: 8%;
+    margin-bottom: 100px;
+}
+.server{
+    text-align: center;
+    margin-top: 6%;
+    color: #333333;
+}

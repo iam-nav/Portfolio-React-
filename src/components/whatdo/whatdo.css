@@ -60,6 +60,13 @@ margin-left: 50px;
    color: white;
    margin-top: 35px;
 }
+
+.database{
+    margin-left: 42px;
+    font-size: 50px;
+    color: white;
+    margin-top: 35px;
+ }
 #web{
     margin-left: -50px;
     margin-top: -10px;
@@ -87,4 +94,11 @@ margin-left: 50px;
 }
 #scale{
     margin-left: 150px;
+}
+
+
+@media screen and (max-height: 800px) {
+    .skills ul{
+        margin-left: 5px;
+    }
 }

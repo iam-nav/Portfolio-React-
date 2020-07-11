@@ -8,7 +8,7 @@ export default function Navbar() {
                 <div className="layer">
                     <div className="navbar">
                         <ul>
-                            <span className="Name">Name</span>
+                            <span className="Name">Navjot Singh</span>
                                 <li><a href="#services">WHAT I DO</a></li>
                                 <li><a href="#portfolio">PORTFOLIO</a></li>
                                 <li><a href="#about">ABOUT</a></li>
